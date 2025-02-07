@@ -5,9 +5,6 @@ steps to get running
 - run `uv run manage.py runserver`
 
 superuser info:
-
 username: superuser
-
 email: user@example.com
-
 password: password2340
