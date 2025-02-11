@@ -2,3 +2,4 @@
 **/__pycache__/
 **/tailwind.css
 node_modules
+.env

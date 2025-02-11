@@ -6,6 +6,6 @@ steps to get running
 
 superuser info:
 
-username: admin
-email: user@example.com
-password: password2340
+- username: admin
+- email: user@example.com
+- password: password2340
